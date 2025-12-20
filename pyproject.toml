@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "stress-indicator"
+name = "AutiStress-AI-Analyzer"
 version = "0.1.0"
-description = "Autism stress detection app"
+description = "A Streamlit application for detecting physiological stress points in autistic individuals using Gemini AI."
 authors = ["Your Name <you@example.com>"]
 package-mode = false  
 
