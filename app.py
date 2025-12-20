@@ -21,7 +21,7 @@ if api_key:
     # Model selection
     model_choice = st.sidebar.selectbox(
         "Choose a Gemini model:",
-        ("gemini-1.5-flash", "gemini-pro", "gemini-1.5-pro")
+        ("gemini-2.5-flash")
     )
 
     # File Uploader
